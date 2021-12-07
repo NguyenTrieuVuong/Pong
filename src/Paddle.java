@@ -1,6 +1,5 @@
 import java.awt.*;
 import java.awt.event.*;
-
 public class Paddle extends Rectangle {
 	int id;
 	int yVelocity;
